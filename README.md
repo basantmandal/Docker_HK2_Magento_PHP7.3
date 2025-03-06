@@ -1,4 +1,4 @@
-# Docker Image - HK2 - PHP7.3-fpm - Magento2.4.1 and Previous
+# Docker Image - PHP7.3-fpm - Magento2.4.1 and Previous
 
 ## Description
 
@@ -42,7 +42,7 @@ This is a Open Source - Free to use Docker Image/Container. No charge or any fee
 
 ## 🚀 How to use it for Magento
 
-[https://github.com/basantmandal/Magento247_Docker_Compose](https://github.com/basantmandal/Magento247_Docker_Compose)
+[https://github.com/basantmandal/Magento_Docker_Compose](https://github.com/basantmandal/Magento_Docker_Compose)
 
 ## Compatibility
 
@@ -74,7 +74,7 @@ Contributions are welcome! If you’d like to contribute to this project:
 
 ## 🤝 Consent
 
-By using any Product/Module/Application/Docker Image/Container/etc from Basant Mandal A.K.A (HK2 - Hash Tag Kitto), you hereby consent to our disclaimer and agree to its terms.
+By using any Product/Module/Application/Docker Image/Container/compose, etc from Basant Mandal A.K.A (HK2 - Hash Tag Kitto), you hereby consent to our disclaimer and agree to its terms.
 
 ## 📢 Disclaimer
 
